@@ -13,7 +13,7 @@ This userscript enhances the "Change to Legacy/New Site" button on CurseForge by
 
 ## Installation
 
-Search this script on GreasyFork then download n apply it.
+Go to https://greasyfork.org/en/scripts/497060-better-curseforge-legacy-new-switch-button and install it.
 
 ## Manual Installation
 
