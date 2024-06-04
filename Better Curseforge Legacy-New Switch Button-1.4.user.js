@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         Better Curseforge Legacy/New Switch Button
-// @version      1.4
+// @version      1.6
 // @description  Instead of the useless home pages, "change to legacy/new site" button now redirects to the current page of the legacy or new site.
 // @author       Aichi Chikuwa
+// @namespace    AichiChikuwa
+// @license      CC BY 4.0
 // @match        https://www.curseforge.com/*
 // @match        https://legacy.curseforge.com/*
 // ==/UserScript==
